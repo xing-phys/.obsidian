@@ -816,6 +816,7 @@ Bene
 Bruno
 Bertini
 Bifurcation
+Broken
 Energy
 Each
 Example
@@ -2326,6 +2327,8 @@ silet
 sopire
 sine
 superet
+seperating
+spec
 Flopuet
 Floquet
 From
@@ -6064,6 +6067,7 @@ torque
 tecta
 trabs
 tUK
+transmission
 complete
 cycle
 change
@@ -6929,6 +6933,7 @@ cernes
 choreas
 cuspidis
 cHU
+cycles
 driving
 definition
 duration
@@ -7899,6 +7904,7 @@ detur
 dea
 dotalia
 delubra
+destabilizes
 quasienergy
 quasenergy
 qO
@@ -11531,6 +11537,7 @@ bittorrent
 balance
 bella
 bBGP
+bifurcation
 lablect
 lattice
 lies
@@ -13709,6 +13716,7 @@ hardware
 hdmi
 habet
 hQG
+hagaTimeGlassesSymmetry
 Step
 Substintusing
 See
@@ -15137,6 +15145,7 @@ firmas
 fun
 ffd
 fuL
+figcaption
 Generalization
 General
 Gap
@@ -15815,6 +15824,7 @@ GTzv
 GbI
 GlPN
 Gianluca
+Glasses
 Periodically
 Proof
 Propaties
@@ -18112,6 +18122,9 @@ meae
 medios
 montibus
 mzm
+monility
+matching
+math
 Consider
 Constomet
 Check
@@ -18926,6 +18939,7 @@ Cursus
 CqSAT
 Csb
 Colin
+Chaotic
 With
 We
 Winding
@@ -19548,6 +19562,7 @@ WoM
 WyX
 WeL
 WkC
+Wave
 get
 gasped
 gap
@@ -20888,6 +20903,7 @@ NNb
 Nitzan
 Nonlinear
 Nakamura
+Nonlinearity
 Trivial
 The
 Take
@@ -21715,6 +21731,7 @@ Talibus
 TQN
 TOi
 Trapped
+Taiki
 at
 any
 as
@@ -22601,6 +22618,8 @@ adhuc
 aspicit
 ante
 aharonyshapiraInverseMpembaEffect
+allowed
+associated
 number
 near
 next
@@ -24176,6 +24195,7 @@ Amnis
 Arethusa
 ASh
 AcC
+Algebraically
 unless
 unitary
 use
@@ -27632,6 +27652,7 @@ rediit
 rerumque
 remolliat
 rylandsMicroscopicOriginQuantum
+rise
 Hamiltonian
 Ho
 Hermicity
@@ -28425,6 +28446,7 @@ HCf
 Hunc
 Hex
 Hopf
+Haga
 Rewrite
 Results
 Reciprocity
