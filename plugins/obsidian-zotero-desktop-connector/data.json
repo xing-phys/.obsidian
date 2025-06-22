@@ -1,0 +1,38 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "APS-et-al",
+      "format": "formatted-bibliography",
+      "cslStyle": "custom-aps-et-al"
+    },
+    {
+      "name": "APS-et-al-link",
+      "format": "template",
+      "cslStyle": "custom-aps-et-al",
+      "template": "[{{bibliography}}]({{url}})"
+    },
+    {
+      "name": "APS",
+      "format": "formatted-bibliography",
+      "cslStyle": "custom-aps"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Notes",
+      "outputPathTemplate": "__Bibliography/@{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "cslStyle": "custom-aps-et-al",
+      "templatePath": "template.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

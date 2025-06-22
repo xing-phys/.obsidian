@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html",
+      "customArguments": "--mathjax=\"https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg-full.js\" --filter pandoc-crossref --citeproc --bibliography=/Users/xingzy/Zotero/zotero_library.bib --csl=/Users/xingzy/Zotero/styles/american-physics-society.csl"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF",
+      "customArguments": "--filter pandoc-crossref --citeproc --bibliography=/Users/xingzy/Zotero/zotero_library.bib --pdf-engine=pdflatex --csl=/Users/xingzy/Zotero/styles/american-physics-society.csl"
+    },
+    {
+      "name": "Word (.docx)",
+      "customArguments": "--filter pandoc-crossref --citeproc --bibliography=/Users/xingzy/Zotero/zotero_library.bib --csl=/Users/xingzy/Zotero/styles/american-physics-society.csl"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": false,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastExportDirectory": {
+    "darwin": "/Users/xingzy/Downloads"
+  },
+  "lastExportType": "Word (.docx)",
+  "lastEditName": "Html"
+}
