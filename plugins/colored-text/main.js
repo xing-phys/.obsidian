@@ -25383,7 +25383,7 @@ var ColorHandler = class {
       const curCellColor = this.colorBar.getCurCellColor();
       if (selection.length === 0 && colorMode === 1 /* ColoredText */)
         return;
-      editor.replaceSelection(`[${selection}]{color="${curCellColor}"}`);
+      editor.replaceSelection(`<span style="color:${curCellColor}">${selection}</span>`);
       const cursorEnd = editor.getCursor("to");
       try {
         const cursorEndChar = selection.length === 0 ? cursorEnd.ch - 7 : cursorEnd.ch + 1;
