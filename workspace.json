@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7297aebd0ef9243d",
+        "id": "65e85b0d02fdc69d",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc81765585c78ab",
+            "id": "1f1858819204adcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "__Bibliography/@kawabataHopfBifurcationNonlinear2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "micros",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,12 +222,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ddc81765585c78ab",
+  "active": "1f1858819204adcf",
   "lastOpenFiles": [
-    "__Bibliography/@hagaTimeGlassesSymmetry2025.md",
     "Wunderkammer.md",
-    "OYA-oqs/Notes/note.md",
+    "Excalidraw/Draft.md",
     "template.md",
+    "__Bibliography/@kawabataHopfBifurcationNonlinear2025.md",
+    "Excalidraw",
+    "__Bibliography/@hagaTimeGlassesSymmetry2025.md",
+    "OYA-oqs/Notes/note.md",
     "__Bibliography/Universal Spreading.md",
     "__Bibliography/Tensor Network.md",
     "__Bibliography/Rydberg Atoms.md",
@@ -242,14 +245,12 @@
     "__Bibliography/@verstraeteMatrixProductDensity2004.md",
     "__Bibliography/@rylandsMicroscopicOriginQuantum2024.md",
     "__Bibliography/@orusPracticalIntroductionTensor2014.md",
-    "__Bibliography/@kawabataHopfBifurcationNonlinear2025.md",
     "__Bibliography/@joshiObservingQuantumMpemba2024.md",
     "__Bibliography/@jaschkeOnedimensionalManybodyEntangled2018.md",
     "__Bibliography/@dalessioQuantumChaosEigenstate2016.md",
     "__Bibliography/@casagrandeAnalysisDensityMatrix2021.md",
     "__Bibliography/@carolloExponentiallyAcceleratedApproach2021.md",
     "__Bibliography/@bridgemanHandwavingInterpretiveDance2017.md",
-    "__Bibliography/@bhoreQuantumMpembaEffect2025.md",
     "__Bibliography",
     "___Reminder",
     "OYA-oqs/Notes/note.qmd",
@@ -259,7 +260,6 @@
     "output.docx",
     "output.word",
     "luNonequilibriumThermodynamicsMarkovian2017.docx",
-    "zotero.lua",
     "oya-note/figures/flux_q=3.svg",
     "oya-note/_manuscript/_tex/figures/flux_q=3.svg",
     "oya-note/_manuscript/_tex/figures/evolution_q=3.svg",

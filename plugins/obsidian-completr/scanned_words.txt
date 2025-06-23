@@ -4459,6 +4459,7 @@ ore
 omnes
 ostendit
 oEQ
+oriented
 eigenvalues
 evolution
 evaluated
@@ -6068,6 +6069,7 @@ tecta
 trabs
 tUK
 transmission
+template
 complete
 cycle
 change
@@ -9415,6 +9417,9 @@ pectora
 pertimuitque
 postquam
 parem
+personal
+professional
+portfolio
 where
 with
 write
@@ -22620,6 +22625,7 @@ ante
 aharonyshapiraInverseMpembaEffect
 allowed
 associated
+academics
 number
 near
 next
@@ -27653,6 +27659,7 @@ rerumque
 remolliat
 rylandsMicroscopicOriginQuantum
 rise
+responsive
 Hamiltonian
 Ho
 Hermicity
@@ -36905,6 +36912,7 @@ JLia
 JDJ
 JdD
 Jovan
+Jekyll
 VGHoz
 Vr
 Va
