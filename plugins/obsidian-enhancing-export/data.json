@@ -18,7 +18,8 @@
     },
     {
       "name": "PDF",
-      "customArguments": "--filter pandoc-crossref --citeproc --bibliography=/Users/xingzy/Zotero/zotero_library.bib --pdf-engine=pdflatex --csl=/Users/xingzy/Zotero/styles/american-physics-society.csl"
+      "customArguments": "--filter pandoc-crossref --citeproc --bibliography=/Users/xingzy/Zotero/zotero_library.bib --pdf-engine=xelatex --csl=/Users/xingzy/Zotero/styles/american-physics-society.csl",
+      "arguments": "-f ${fromFormat} --resource-path=\"${currentDir}\" --resource-path=\"${attachmentFolderPath}\" ${ options.textemplate ? `--resource-path=\"${pluginDir}/textemplate\" --template=\"${options.textemplate}\"` : ` ` } -o \"${outputPath}\" -t pdf"
     },
     {
       "name": "Word (.docx)",
@@ -59,6 +60,6 @@
   "lastExportDirectory": {
     "darwin": "/Users/xingzy/Downloads"
   },
-  "lastExportType": "Word (.docx)",
-  "lastEditName": "Html"
+  "lastExportType": "PDF",
+  "lastEditName": "PDF"
 }
