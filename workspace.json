@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f1858819204adcf",
+            "id": "b4601284af37b50c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "__Bibliography/@hagaTimeGlassesSymmetry2025.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -22,29 +22,17 @@
             }
           },
           {
-            "id": "32fe3c8cbc58ff02",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Draft.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Draft"
-            }
-          },
-          {
-            "id": "0c07e801e1440956",
+            "id": "8f8bb0c1888bfdd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wunderkammer.md",
+                "file": "OYA-oqs/Notes/Entanglement Spectrum.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Wunderkammer"
+              "title": "Entanglement Spectrum"
             }
           }
         ]
@@ -248,54 +236,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1f1858819204adcf",
+  "active": "b4601284af37b50c",
   "lastOpenFiles": [
-    "OYA-oqs/slurm-flux/jl_81.slurm",
-    "OYA-oqs/slurm-flux/liouvillian_flux_cal_81.jl",
-    "OYA-oqs/slurm-flux/jl_80.slurm",
-    "OYA-oqs/slurm-flux/liouvillian_flux_cal_80.jl",
-    "OYA-oqs/slurm-flux/jl_79.slurm",
-    "OYA-oqs/slurm-flux/liouvillian_flux_cal_79.jl",
-    "OYA-oqs/slurm-flux/jl_78.slurm",
-    "OYA-oqs/slurm-flux/liouvillian_flux_cal_78.jl",
-    "OYA-oqs/slurm-flux/jl_77.slurm",
-    "OYA-oqs/slurm-flux/liouvillian_flux_cal_77.jl",
-    "OYA-oqs/slurm-flux/jl_76.slurm",
-    "Untitled.md",
-    "__Bibliography/@hagaTimeGlassesSymmetry2025.md",
-    "Excalidraw/Draft.md",
-    "__Bibliography/@kawabataHopfBifurcationNonlinear2025.md",
-    "Wunderkammer.md",
-    "test.md",
-    "template.md",
     "OYA-oqs/Notes/note.md",
-    "__Bibliography/Universal Spreading.md",
+    "OYA-oqs/Notes/Entanglement Spectrum.md",
+    "OYA-oqs/Notes/note.qmd",
+    "OYA-oqs/Notes_typst/Figures/flux.svg",
+    "OYA-oqs/Notes_typst/note.typ",
+    "OYA-oqs/Notes_typst/note.pdf",
+    "OYA-oqs/Notes_typst/Figures",
+    "OYA-oqs/Notes_typst",
+    "OYA-oqs/typst note/Figures/flux.svg",
+    "OYA-oqs/typst note/note.typ",
+    "OYA-oqs/typst note/note.pdf",
+    "OYA-oqs/typst note/Figures",
+    "OYA-oqs/typst note",
+    "OYA-oqs/Notes/color-text.lua",
+    "OYA-oqs/Notes/figures/evolution.svg",
+    "OYA-oqs/Notes/figures/gap.svg",
+    "OYA-oqs/Notes/figures/flux_q=3.svg",
+    "OYA-oqs/Notes/figures/flux.svg",
+    "OYA-oqs/Notes/figures/evolution_q=3.svg",
+    "OYA-oqs/Notes/typst note/Figures/flux.svg",
+    "nh_wave_filter/README.md",
+    "mobility_edge_2d/scaling.gif",
+    "__Bibliography/@liEntanglementSpectrumGeneralization2008.md",
+    "Wunderkammer.md",
+    "__Bibliography/@wangSuperdiffusiveTransportLattices2024.md",
+    "__Bibliography/@affleckProofPartHaldanes1986.md",
     "__Bibliography/Tensor Network.md",
-    "__Bibliography/Rydberg Atoms.md",
     "__Bibliography/Open Quantum Systems.md",
-    "__Bibliography/LSM Theorem.md",
-    "__Bibliography/Disorder Systems.md",
-    "__Bibliography/@zwolakMixedStateDynamicsOneDimensional2004.md",
-    "__Bibliography/@zunkovicClosedHierarchyCorrelations2014.md",
-    "__Bibliography/@znidaricExactSolutionDiffusive2010.md",
     "__Bibliography/@znidaricDiffusiveSubdiffusiveSpin2016.md",
-    "__Bibliography/@zhangObservationQuantumStrong2025.md",
-    "__Bibliography/@verstraeteMatrixProductDensity2004.md",
-    "__Bibliography/@rylandsMicroscopicOriginQuantum2024.md",
-    "__Bibliography/@orusPracticalIntroductionTensor2014.md",
-    "__Bibliography/@joshiObservingQuantumMpemba2024.md",
     "__Bibliography/@jaschkeOnedimensionalManybodyEntangled2018.md",
-    "__Bibliography/@dalessioQuantumChaosEigenstate2016.md",
+    "__Bibliography/@kawabataLiebSchultzMattisTheoremOpen2024.md",
+    "__Bibliography/@oshikawaCommensurabilityExcitationGap2000.md",
+    "__Bibliography/Universal Spreading.md",
+    "__Bibliography/@dengOneDimensionalQuasicrystalsPowerLaw2019.md",
+    "__Bibliography/@liebTwoSolubleModels1961.md",
+    "__Bibliography/Disorder Systems.md",
+    "__Bibliography/@dengDualityPowerLawLocalization2018.md",
+    "__Bibliography/Rydberg Atoms.md",
+    "__Bibliography/LSM Theorem.md",
+    "__Bibliography/@yamanakaNonperturbativeApproachLuttingers1997.md",
+    "__Bibliography/@oshikawaMagnetizationPlateausSpin1997.md",
+    "Excalidraw/Draft.md",
+    "__Bibliography/@zhouRevivingLiebSchultz2024.md",
+    "__Bibliography/@hagaTimeGlassesSymmetry2025.md",
     "oya-note/figures/flux_q=3.svg",
-    "oya-note/_manuscript/_tex/figures/flux_q=3.svg",
-    "oya-note/_manuscript/_tex/figures/evolution_q=3.svg",
-    "oya-note/_manuscript/figures/flux_q=3.svg",
-    "oya-note/_manuscript/figures/evolution_q=3.svg",
-    "oya-note/figures/evolution_q=3.svg",
-    "oya-note/_manuscript/figures/gap.svg",
-    "oya-note/_manuscript/figures/flux.svg",
-    "oya-note/_manuscript/figures/evolution.svg",
-    "tmp draft/oya-note/_manuscript/_tex/figures/gap.svg",
     "test/Untitled.canvas",
     "Untitled 1.canvas"
   ]
